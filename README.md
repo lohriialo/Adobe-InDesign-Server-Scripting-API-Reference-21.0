@@ -1,0 +1,1 @@
+# Adobe InDesign Server Scripting API Reference 21.0
